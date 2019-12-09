@@ -18,11 +18,7 @@ alias et='exit'
 alias l='ls'
 alias la='ls -a'
 alias ..="cd .."
-alias cdd="cd .."
-alias cd..="cd .."
 alias ...="cd ../.."
-alias ....="cd ../../.."
-alias .....="cd ../../../.."
 alias ?='cd ~'
 
 alias reload='source ~/.bashrc'
