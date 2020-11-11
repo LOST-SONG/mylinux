@@ -27,3 +27,5 @@ alias bashpr='vim ~/.bash_profile && source ~/.bash_profile'
 alias bashal='vim ~/.alias && source ~/.alias'
 
 alias cl='cd /'
+
+export PS1='[\u@\t \w]\\$ '
